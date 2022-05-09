@@ -26,7 +26,7 @@ Alternatively, your editor might support flutter packages get. Check the docs fo
 ### import
 
 ```dart
-import 'package:clip_shadow/clip_shadow.dart';
+import 'package:shadow_clip/shadow_clip.dart';
 ```
 
 ```dart
